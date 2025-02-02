@@ -590,6 +590,58 @@ you need HAYUP/SIX DIGITS SWELDO Habits.
 
 
 
+# Real world skills: site to site vpn tunnel
+step1: prepare FWvpnPH:
+
+CONFIG T
+IP ROUTE 0.0.0.0  0.0.0.0 208.8.8.2
+no logging console
+Int Gi 2
+no shut
+ip add 192.168.102.11 255.255.255.0
+ip name-server 8.8.8.8 1.1.1.1
+ip domain-lookup
+int gi 1
+no shut
+ip add 208.8.8.11 255.255.255.0
+int gi 3
+no shut
+ip add 10.10.10.1 255.255.255.0
+do sh ip int brief
+
+
+step1: prepare FWvpnJP:
+
+CONFIG T
+IP ROUTE 0.0.0.0  0.0.0.0 208.8.8.2
+no logging console
+Int Gi 2
+no shut
+ip add 192.168.102.12 255.255.255.0
+ip name-server 8.8.8.8 1.1.1.1
+ip domain-lookup
+int gi 1
+no shut
+ip add 208.8.8.12 255.255.255.0
+int gi 3
+no shut
+ip add 20.20.20.1 255.255.255.0
+do sh ip int brief
+
+
+bldg1inPinas:
+sudo su
+ifconfig eth0 10.10.10.10 netmask 255.255.255.0 up
+route add default gw 10.10.10.1
+ping 10.10.10.1
+bldg2inJAPAN:
+sudo su
+ifconfig eth0 20.20.20.20 netmask 255.255.255.0 up
+route add default gw 20.20.20.1
+ping 20.20.20.1
+
+
+
 
 
 
