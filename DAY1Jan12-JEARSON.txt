@@ -590,3 +590,15 @@ Led Core, Distribution, and Access layer implementations, enhancing network segm
 Troubleshot and resolved Layer 2/3 switching issues, improving overall network performance.
 Implemented VLANs, trunking, and EtherChannel for better traffic flow and redundancy.
 Automated network monitoring and alerting, reducing downtime and manual intervention.
+
+
+I am an experienced network engineer with a focus on Cisco switching architectures, creating and refining scalable, robust, and highly available networks for businesses. With my vast knowledge of Multiple Spanning Tree (MST), Rapid STP (RSTP), and Spanning Tree Protocol (STP), I guarantee effective, loop-free Layer 2 connection in a variety of challenging settings.
+
+I specialize in the following areas within the Core, Distribution, and Access layers:
+
+✅ Core Layer: Redundancy, routing optimization, and fast, low-latency backbone connectivity.
+✅ Distribution Layer: VLAN segmentation, policy-based routing, and aggregation for the best possible traffic flow.
+✅ Access Layer: VLAN setup, secure endpoint connectivity, and access control deployment.
+✅ Layer 2 Attacks: STP Attacks, MAC Flooding, ARP Spoofing, VLAN Hopping, and DHCP Spoofing.
+
+I have a strong interest in network automation, performance tweaking, and troubleshooting, making sure that there is constant connectivity and uptime for
