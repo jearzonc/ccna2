@@ -1,4 +1,4 @@
-!@@@CORE SWITCH SA TAAS
+o!@@@CORE SWITCH SA TAAS
 config t
    hostname COREtaas22
    enable secret pass
@@ -555,3 +555,14 @@ exit
 sip-ua
 sip-server ipv4:192.168.k.1
 
+About:
+As a seasoned Network Engineer, I specialize in Cisco switching architectures, designing and optimizing highly available, scalable, and resilient networks for enterprises. With extensive experience in Spanning Tree Protocol (STP), Rapid STP (RSTP), and Multiple Spanning Tree (MST), I ensure loop-free, efficient Layer 2 connectivity across complex environments.
+
+My expertise spans across the Core, Distribution, and Access layers, where I focus on:
+✅ Core Layer – High-speed, low-latency backbone connectivity, routing optimization, and redundancy.
+✅ Distribution Layer – Policy-based routing, VLAN segmentation, and aggregation for optimal traffic flow.
+✅ Access Layer – Secure endpoint connectivity, VLAN configuration, and access control implementation.
+
+I am passionate about network automation, troubleshooting, and performance tuning, ensuring seamless connectivity and uptime for mission-critical applications. My approach blends best practices in Layer 2/3 switching with real-world operational efficiency.
+
+Let's connect and discuss how I can help optimize your Cisco network infrastructure!
