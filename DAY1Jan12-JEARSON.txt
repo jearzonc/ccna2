@@ -566,3 +566,27 @@ My expertise spans across the Core, Distribution, and Access layers, where I foc
 I am passionate about network automation, troubleshooting, and performance tuning, ensuring seamless connectivity and uptime for mission-critical applications. My approach blends best practices in Layer 2/3 switching with real-world operational efficiency.
 
 Let's connect and discuss how I can help optimize your Cisco network infrastructure!
+
+
+I am a Cybersecurity and Network Security Enthusiast with a strong focus on penetration testing for Layer 2 switch attacks. My expertise lies in identifying vulnerabilities in Cisco switching environments and implementing proactive security measures to mitigate threats.
+
+🔹 Key Areas of Focus:
+✅ Layer 2 Attacks: VLAN Hopping, ARP Spoofing, MAC Flooding, STP Attacks, and DHCP Spoofing.
+✅ Pentesting Techniques: Network reconnaissance, MITM attacks, rogue device identification, and packet sniffing.
+✅ Mitigation Strategies: Port security, BPDU Guard, DHCP Snooping, Dynamic ARP Inspection, VLAN segmentation, and 802.1X authentication.
+✅ Tools & Technologies: Kali Linux, Wireshark, Nmap, Scapy, Ettercap, Cisco CLI, and Packet Tracer.
+
+I am passionate about securing network infrastructures by combining penetration testing skills with real-world defense strategies. Whether it’s identifying misconfigurations or strengthening enterprise security posture, I ensure networks are resilient against Layer 2 exploits.
+
+📌 Open to collaborations, cybersecurity projects, and knowledge-sharing! Let’s connect. 🚀
+
+Experience:
+Network Engineer | [Your Current Company]
+[Month/Year] – Present
+
+Designed and deployed Cisco switching architectures for enterprise networks, ensuring optimal redundancy and failover mechanisms.
+Optimized STP, RSTP, and MST configurations, reducing convergence time and improving network stability.
+Led Core, Distribution, and Access layer implementations, enhancing network segmentation and security.
+Troubleshot and resolved Layer 2/3 switching issues, improving overall network performance.
+Implemented VLANs, trunking, and EtherChannel for better traffic flow and redundancy.
+Automated network monitoring and alerting, reducing downtime and manual intervention.
